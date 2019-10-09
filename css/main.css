@@ -8,7 +8,7 @@ html {
   position: relative;
   width: 300px;
 
-  background: transparent url(../images/clock-face.svg)
+  background: transparent url("../images/clock-face.svg"
 }
 
 .clock-center {
@@ -43,4 +43,5 @@ html {
   100% {
     transform: rotate(360deg);
   }
+
 }
